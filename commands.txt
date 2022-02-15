@@ -1,4 +1,4 @@
-docker build -t miltonc/dockerwebapp .
+docker build -t amitbapodara/dockerwebapp .
 
 docker images
 
